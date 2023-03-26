@@ -20,5 +20,9 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+P.S.
+Сделал дополнительный функционал - добавление нуля в цифру, 
+если она меньше 10. Знаю, что по тз не нужно было это делать, 
+но без этого время выглядело ужасно.
+
+
